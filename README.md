@@ -1,2 +1,2 @@
 # CSCI231-Project-6
-This program uses two overloaded methods to count English letters within a sentence inputted by the user. The first method tests to see how many English letters are in a sentence inputted by the user. The second method determines how many times a specified character occurs in the sentence. If there are no occurences, a zero is returned, and if the character is not an English letter, -1 is returned. 
+This program uses two overloaded methods. The first method tests to see how many English letters are inputted by the user in a sentence. The second method determines how often a specified character occurs in the sentence. Zero is returned if there are no occurrences, and if the character is not an English letter, -1 is returned. 
